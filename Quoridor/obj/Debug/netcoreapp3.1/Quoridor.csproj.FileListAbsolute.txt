@@ -12,3 +12,17 @@ C:\Users\User\Downloads\Quoridor-master\Quoridor\bin\Debug\netcoreapp3.1\Quorido
 C:\Users\User\Downloads\Quoridor-master\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.dll
 C:\Users\User\Downloads\Quoridor-master\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.pdb
 C:\Users\User\Downloads\Quoridor-master\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.genruntimeconfig.cache
+C:\Users\User\Downloads\Quoridor\Quoridor\bin\Debug\netcoreapp3.1\Quoridor.exe
+C:\Users\User\Downloads\Quoridor\Quoridor\bin\Debug\netcoreapp3.1\Quoridor.deps.json
+C:\Users\User\Downloads\Quoridor\Quoridor\bin\Debug\netcoreapp3.1\Quoridor.runtimeconfig.json
+C:\Users\User\Downloads\Quoridor\Quoridor\bin\Debug\netcoreapp3.1\Quoridor.runtimeconfig.dev.json
+C:\Users\User\Downloads\Quoridor\Quoridor\bin\Debug\netcoreapp3.1\Quoridor.dll
+C:\Users\User\Downloads\Quoridor\Quoridor\bin\Debug\netcoreapp3.1\Quoridor.pdb
+C:\Users\User\Downloads\Quoridor\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Quoridor\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Quoridor\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Quoridor\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.AssemblyInfo.cs
+C:\Users\User\Downloads\Quoridor\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Quoridor\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.dll
+C:\Users\User\Downloads\Quoridor\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.pdb
+C:\Users\User\Downloads\Quoridor\Quoridor\obj\Debug\netcoreapp3.1\Quoridor.genruntimeconfig.cache

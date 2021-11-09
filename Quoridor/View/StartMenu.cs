@@ -29,7 +29,8 @@ namespace Quoridor.Menu
             string choose;
             Console.WriteLine(
                 "Старт игры против второго игрока (1)  \n" +
-                "Вернуться назад (2)");            
+                "Старт игры против бота (2)  \n" +
+                "Вернуться назад (3)");            
             choose = Console.ReadLine();
             switch (choose)
             {
@@ -37,6 +38,9 @@ namespace Quoridor.Menu
                     AgainstPlayer();
                     NextMenu(); break;
                 case "2":
+                    AgainstBot();
+                    NextMenu(); break;
+                case "3":
                     BeginMenu(); break;
                 default:
                     Console.WriteLine(

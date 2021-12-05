@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\Quoridor\\Quoridor\\Quoridor.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Downloads\\Quoridor_2labs\\Quoridor\\Quoridor.csproj",
       "projectName": "Quoridor",
-      "projectPath": "C:\\Users\\User\\Downloads\\Quoridor\\Quoridor\\Quoridor.csproj",
+      "projectPath": "C:\\Users\\User\\Downloads\\Quoridor_2labs\\Quoridor\\Quoridor.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\Quoridor\\Quoridor\\obj\\",
+      "outputPath": "C:\\Users\\User\\Downloads\\Quoridor_2labs\\Quoridor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
